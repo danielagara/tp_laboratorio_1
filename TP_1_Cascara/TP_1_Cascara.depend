@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1491833848 source:c:\users\daniela\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491831664 c:\users\daniela\desktop\tp_1_cascara\funciones.h
+	"funcionesCuentas.c"
+
+1491832219 c:\users\daniela\desktop\tp_1_cascara\funcionescuentas.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
